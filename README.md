@@ -6,8 +6,7 @@ Skills: VUE JS / REACT / JS / NEXTJS / VUEX / REDUX /SASS / CSS3 / HTML5 / PHP /
 - 🔭 I’m currently working on selection valley 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ehab97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ehabreda04/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@04ehab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ehab97.github.io/portfolio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='vue-dot-js' height='40'>](https://vuejs.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg' alt='next-dot-js' height='40'>](https://nextjs.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mcafee.svg' alt='mcafee' height='40'>](https://reactjs.org/tutorial/tutorial.html)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ehab97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ehabreda04/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@04ehab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ehab97.github.io/portfolio/)  
 
 <!--
 **Ehab97/Ehab97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
