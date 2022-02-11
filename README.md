@@ -1,7 +1,7 @@
 ### Hi there 👋,I'm Ehab Reda
 #### I'm Software Engineer 
 
-Skills: VUE JS / REACT / JS / NEXTJS / VUEX / REDUX /SASS / CSS3 / HTML5 / PHP / Laravel / MySQl
+Skills: VUE JS / REACT / JS / TYPESCRIPT / NEXTJS / VUEX / REDUX /SASS / CSS3 / HTML5 / PHP / Laravel / NODEJS / MySQl / FIREBASE
 
 - 🔭 I’m currently working on selection valley 
 
