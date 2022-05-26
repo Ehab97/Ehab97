@@ -3,6 +3,8 @@
 
 Skills: VUE JS / REACT / JS / TYPESCRIPT / NEXTJS / VUEX / REDUX / SASS / CSS3 / HTML5 / PHP / Laravel / NODEJS / MySQl / FIREBASE / Sharepoint / PowerAutomate / 
         Story Book / Material UI / Tailwind / Bootstrap / JQuery 
+        
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)        
 - 🔭 I’m currently working in ATIS 
 
 
