@@ -1,9 +1,7 @@
 ### Hi there 👋,I'm (Ehab Reda || Mohammed Reda)
 #### I'm Software Engineer 
 
-Skills: VUE JS / REACT / JS / TYPESCRIPT / NEXTJS / VUEX / REDUX / SASS / CSS3 / HTML5 / PHP / Laravel / NODEJS / MySQl / FIREBASE / Sharepoint / PowerAutomate / 
-        Story Book / Material UI / Tailwind / Bootstrap / JQuery 
-        
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vuejs,nextjs,vite,webpack,nodejs,redux,typescript,php,laravel,mysql,sass,vuex,storybook,jquery,tailwind,sharepoint)](https://skillicons.dev)        
 - 🔭 I’m currently working in ATIS 
 
