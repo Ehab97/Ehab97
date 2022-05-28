@@ -2,7 +2,7 @@
 #### I'm Software Engineer 
 
 ####Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vuejs,nextjs,vite,webpack,nodejs,redux,typescript,php,laravel,mysql,sass,storybook,jquery,tailwind,c++)](https://skillicons.dev)        
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vuejs,nextjs,vite,webpack,nodejs,redux,typescript,php,laravel,mysql,sass,bootstrap,jquery,tailwind,cpp)](https://skillicons.dev)        
 - 🔭 I’m currently working in ATIS 
 
 
