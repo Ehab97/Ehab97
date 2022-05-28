@@ -1,8 +1,8 @@
 ### Hi there 👋,I'm (Ehab Reda || Mohammed Reda)
 #### I'm Software Engineer 
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vuejs,nextjs,vite,webpack,nodejs,redux,typescript,php,laravel,mysql,sass,vuex,storybook,jquery,tailwind,sharepoint)](https://skillicons.dev)        
+####Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vuejs,nextjs,vite,webpack,nodejs,redux,typescript,php,laravel,mysql,sass,storybook,jquery,tailwind,c++)](https://skillicons.dev)        
 - 🔭 I’m currently working in ATIS 
 
 
