@@ -1,6 +1,8 @@
 ### Hi there 👋,I'm (Ehab Reda || Mohammed Reda)
 #### I'm Software Engineer 
 
+![](https://komarev.com/ghpvc/?username=ehab97&style=flat-square)
+
 #### Skills :
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vuejs,nextjs,vite,webpack,nodejs,redux,typescript,php,laravel,mysql,sass,bootstrap,jquery,tailwind,cpp)](https://skillicons.dev)        
