@@ -5,7 +5,7 @@
 
 #### Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vuejs,nextjs,vite,webpack,nodejs,redux,typescript,php,laravel,mysql,sass,bootstrap,jquery,tailwind,cpp)](https://skillicons.dev)        
+[![My Skills](https://skillicons.dev/icons?i=git,js,html,css,react,vuejs,nextjs,vite,webpack,nodejs,express,mongodb,redux,typescript,php,laravel,mysql,sass,bootstrap,jquery,tailwind,cpp)](https://skillicons.dev)        
 - 🔭 I’m currently working in ATIS 
 
 
