@@ -5,7 +5,7 @@ I'm a passionate Software Engineer currently working at ATIS, specializing in we
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=git,js,html,css,react,vuejs,nextjs,vite,webpack,nodejs,express,mongodb,redux,typescript,php,laravel,mysql,sass,bootstrap,jquery,tailwind,cpp)](https://skillicons.dev)        
-- Frontend: JavaScript (React, Vue.js), HTML, CSS
+- Frontend: JavaScript (React.js,Next,js,Vue.js), HTML, CSS
 - Backend: Node.js, Express, MongoDB, MySQL
 - Other: Git, Redux, TypeScript, PHP, Laravel
 
