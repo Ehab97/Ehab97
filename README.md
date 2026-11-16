@@ -10,7 +10,7 @@ I'm a passionate Software Engineer currently working at Evolvice, specializing i
 - Other: Git, Redux, TypeScript, PHP, Laravel
 
 #### Fun Facts & Stats
-- 🔢 Over 5 years of coding experience
+- 🔢 Over 6 years of coding experience
 - 🚀 Constantly learning and exploring new technologies
 - 💻 Completed 50+ projects
 - 🌟 Contributed to several open-source projects
